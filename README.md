@@ -3,7 +3,7 @@
 
 ## Module: Principles of Digital Forensics (7CSEF007W)
 **University**: University of Westminster  
-**Module Leader**: [Your Module Leader's Name]
+**Module Leader**: //////
 
 ### **Coursework Overview**
 This repository contains all the files, documentation, and resources related to my Digital Forensics coursework. The assignment focuses on researching and analyzing modern partition tables (GPT) versus legacy methods (MBR). It includes practical implementations and comparisons to demonstrate proficiency in digital forensic analysis techniques.
